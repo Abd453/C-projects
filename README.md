@@ -1,5 +1,5 @@
 # C++-projects
-Hotel Management System using file concept. 
+Hotel Management System using linked list. 
 **Hotel Management System Readme**
 
 # Introduction
